@@ -19,4 +19,7 @@ For CN:
 
 
 
+https://blogs.oracle.com/sql/post/how-to-create-and-use-indexes-in-oracle-database
+
+
 
